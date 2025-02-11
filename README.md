@@ -1,35 +1,59 @@
-<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=50%></p>
-<h1>Hi 👋, I'm Hardi Raut</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="50%">
+</p>
 
-### 🚀 About Me
-- 🔭 Currently working on **DEVCONNECT** using Flutter & Dart  
-- 🌱 Learning **Web Technology**, **AI**, and **Core Java**  
-- 💡 Passionate about **Software Development** and **Testing**  
-- 🌍 Based in **Dahanu, India**
+<h1 align="center">Hi 👋, I'm Hardi Raut</h1>
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hardi-raut-101b5431b)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://instagram.com/hardiraut_14)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Tester+%7C+Full+Stack+Developer;AI+Enthusiast+%7C+Flutter+Developer;Passionate+about+Tech+%26+Innovation" alt="Typing SVG" />
+</p>
 
-## Languages and Tools:
-![Android](https://img.shields.io/badge/Android-Development-green?logo=android)
-![Appwrite](https://img.shields.io/badge/Appwrite-Backend-orange?logo=appwrite)
-![C](https://img.shields.io/badge/C-Programming-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-Development-purple?logo=csharp)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
-![Dart](https://img.shields.io/badge/Dart-Programming-blue?logo=dart)
-![.NET](https://img.shields.io/badge/.NET-Framework-blue?logo=dotnet)
-![Flutter](https://img.shields.io/badge/Flutter-Development-blue?logo=flutter)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
-![Java](https://img.shields.io/badge/Java-Development-red?logo=java)
-![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
-![Mocha](https://img.shields.io/badge/Mocha-Testing-brown?logo=mocha)
-![Oracle](https://img.shields.io/badge/Oracle-Database-red?logo=oracle)
-![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium)
+---
 
-## GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hardiraut&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiraut&show_icons=true&locale=en)
+## 🚀 About Me
+- 🔭 Currently working on **[DEVCONNECT](#)** using **Flutter & Dart**  
+- 🌱 Learning **Software Quality Assurance**, **AI**, and **Core Java**  
+- 💡 Passionate about **Technology**, **Testing**, and **Development**  
+- 🌍 Based in **Mumbai, India**  
+
+---
+
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/hardi-raut-101b5431b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/hardiraut_14">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" alt="Instagram">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css,android,mysql,linux,git,github,selenium" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardiraut&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiraut&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardiraut&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+✨ _"Code, Learn, and Innovate!"_ 🚀  
+📩 **Let's connect and build something amazing together!**  
+
+---
+
+
+
+
